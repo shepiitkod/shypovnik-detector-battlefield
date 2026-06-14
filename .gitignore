@@ -24,6 +24,7 @@ videos/
 *.jpg
 *.jpeg
 *.png
+!docs/screenshots/*.png
 
 # Deep Learning / YOLO Artifacts & Datasets
 dataset/

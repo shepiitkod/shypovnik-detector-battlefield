@@ -2,6 +2,14 @@
 
 An advanced computer vision pipeline built for real-time military hardware detection, object tracking, and tactical HUD/OSD visualization. The system combines deep learning-based object detection with classical computer vision algorithms to achieve low-latency performance on edge-computing devices.
 
+## Screenshots
+
+Real-time tank lock-on with military OSD on FPV drone footage (~22 FPS on Apple Silicon):
+
+| Field engagement | Aerial reconnaissance | Winter terrain |
+| :---: | :---: | :---: |
+| ![Lock-on — field](docs/screenshots/demo-lock-on-field.png) | ![Lock-on — aerial](docs/screenshots/demo-lock-on-aerial.png) | ![Lock-on — snow](docs/screenshots/demo-lock-on-snow.png) |
+
 ---
 
 ## Key Features
